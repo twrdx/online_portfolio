@@ -10,7 +10,7 @@ main {
 	text-align: left;
 	color: #000066;
   	position: absolute;
-  	left: 220px;
+  	left: 270px;
 	right: 230px;
   	top: 100px;
 }
@@ -19,7 +19,7 @@ nav {
 	font-family: serif;
 	position: fixed;
 	left: 0;
-	width: 300px;;
+	width: 250px;;
 	height: 100%;
   	color:#000066;
 	background: #9999ff;
@@ -88,7 +88,7 @@ li {
 li a {
   color: #000066;
   display: block;
-  width: 198px;
+  width: 248px;
   left: 0px;
   background-size: 200% 100%;
   background-position: -100%;
