@@ -1,5 +1,5 @@
 #profiilikuva {
-	width: 220px;
+	width: 200px;
 	position: absolute;
 	top: 10px;
 	left: 15px;
@@ -29,7 +29,7 @@ nav {
 
 .navilinkit {
   position: absolute;
-  top: 250px;
+  top: 230px;
   left: 0px;
   color:#000066;
 }
@@ -80,8 +80,8 @@ li {
   border-bottom: 1px solid #000066;
   text-align: center;
   padding: 1px;
-  height: 40px;
-  padding-top: 10px;
+  height: 36px;
+  padding-top: 8px;
   color:#000066;
 }
     
